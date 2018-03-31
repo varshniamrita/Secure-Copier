@@ -14,6 +14,8 @@ refer : https://github.com/varshniamrita/Secure-Copier/blob/master/User%20Manual
 
 #### Client
 
+refer : https://github.com/varshniamrita/Secure-Copier/blob/master/User%20Manual-Client.md
+
 ### UML
 
 ![](https://github.com/varshniamrita/Secure-Copier/blob/master/Use%20Case%20Diagram.png)
