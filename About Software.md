@@ -1,4 +1,6 @@
-## About
+## Product Information
+
+##### Last update March 31, 2018
 
 ## Modules
 
