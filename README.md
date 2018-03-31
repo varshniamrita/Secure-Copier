@@ -10,6 +10,8 @@ refer : https://github.com/varshniamrita/Secure-Copier/blob/master/Installation.
 
 #### Admin
 
+refer : https://github.com/varshniamrita/Secure-Copier/blob/master/User%20Manual%20-%20Admin.md
+
 #### Client
 
 ### UML
