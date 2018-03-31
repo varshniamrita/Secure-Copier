@@ -12,3 +12,5 @@ Whitelisting of external storage devices that can be used uniformly on all the a
 #### Client
 
 ### UML
+
+![](https://github.com/varshniamrita/Secure-Copier/blob/master/Use%20Case%20Diagram.png)
