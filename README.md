@@ -4,6 +4,7 @@ Whitelisting of external storage devices that can be used uniformly on all the a
 
 ### Installation
 
+refer : https://github.com/varshniamrita/Secure-Copier/blob/master/Installation.md
 
 ### User Manual
 
