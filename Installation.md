@@ -1,5 +1,6 @@
 # Installation
-##For Admin System
+
+## For Admin System
 
 * Go to Web panel of the Admin
 
@@ -15,7 +16,7 @@
 
 * Run Setup.sh on the required system
 
-##For Client System
+## For Client System
 
 * Go to Web panel of the Admin
 
